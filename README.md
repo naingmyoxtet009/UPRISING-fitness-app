@@ -55,10 +55,10 @@ Developed as a special academic project at **Myanmar Institute of Information Te
 
 👨‍💻 Team & Roles
 Name	Role(s)
-Moriarty	Team Lead, UI/UX Designer, Core Developer, Project Manager
-Myint Myat Wai Yan	Associate Developer, Database Management
-Naing Myo Htet	Developer
-Kaung Khant Kyaw	Developer
+- Moriarty	Team Lead, UI/UX Designer, Core Developer, Project Manager
+- Myint Myat Wai Yan	Associate Developer, Database Management
+- Naing Myo Htet	Developer
+- Kaung Khant Kyaw	Developer
 
 
 📜 License
